@@ -1,2 +1,1 @@
-# TosChart
-clean and chart back testing data from ThinkOrSwim. 
+# tos_data
