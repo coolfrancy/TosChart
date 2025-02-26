@@ -1,0 +1,5 @@
+Symbol: WRB Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,99.0,$10.02,11/9/12,,$1.17,99.0,
+2,keepbusy_cross(SELL),Sell to Close,-99.0,$9.80,12/21/12,($22.00),($22.00),0.0,
+3,keepbusy_cross(Buy),Buy to Open,49.0,$20.04,4/2/18,,($38.99),49.0,
+4,keepbusy_cross(SELL),Sell to Close,-49.0,$20.28,6/28/18,$11.96,($10.04),0.0,

@@ -1,0 +1,5 @@
+Symbol: ERIC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,136.0,$7.34,3/18/94,,($21.25),136.0,
+2,keepbusy_cross(SELL),Sell to Close,-136.0,$6.89,3/28/94,($61.04),($61.04),0.0,
+3,keepbusy_cross(Buy),Buy to Open,108.0,$9.22,3/10/95,,($56.82),108.0,
+4,keepbusy_cross(SELL),Sell to Close,-108.0,$13.05,10/11/95,$413.44,$352.40,0.0,

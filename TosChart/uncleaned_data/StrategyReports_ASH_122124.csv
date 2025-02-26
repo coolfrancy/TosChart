@@ -1,0 +1,7 @@
+Symbol: ASH Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,55.0,$18.10,7/13/90,,$13.45,55.0,
+2,keepbusy_cross(SELL),Sell to Close,-55.0,$17.74,7/19/90,($19.91),($19.91),0.0,
+3,keepbusy_cross(Buy),Buy to Open,17.0,$56.88,1/27/17,,$2.21,17.0,
+4,keepbusy_cross(SELL),Sell to Close,-17.0,$59.36,5/5/17,$42.19,$22.28,0.0,
+5,keepbusy_cross(Buy),Buy to Open,12.0,$78.52,2/7/20,,$36.44,12.0,
+6,keepbusy_cross(SELL),Sell to Close,-12.0,$76.38,2/26/20,($25.67),($3.39),0.0,

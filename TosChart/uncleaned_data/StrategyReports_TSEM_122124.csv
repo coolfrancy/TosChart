@@ -1,0 +1,5 @@
+Symbol: TSEM Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,45.0,$22.20,1/14/11,,$40.50,45.0,
+2,keepbusy_cross(SELL),Sell to Close,-45.0,$21.32,1/21/11,($39.72),($39.72),0.0,
+3,keepbusy_cross(Buy),Buy to Open,34.0,$28.95,8/27/21,,($22.04),34.0,
+4,keepbusy_cross(SELL),Sell to Close,-34.0,$28.49,10/13/21,($15.77),($55.50),0.0,

@@ -1,0 +1,5 @@
+Symbol: QQEW Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,25.0,$39.49,8/15/14,,$5.00,25.0,
+2,keepbusy_cross(SELL),Sell to Close,-25.0,$39.13,10/3/14,($9.00),($9.00),0.0,
+3,keepbusy_cross(Buy),Buy to Open,21.0,$46.72,12/9/16,,($8.00),21.0,
+4,keepbusy_cross(SELL),Sell to Close,-21.0,$53.26,8/11/17,$137.33,$128.33,0.0,

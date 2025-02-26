@@ -1,0 +1,5 @@
+Symbol: EXPD Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,22.0,$45.37,7/13/07,,$7.48,22.0,
+2,keepbusy_cross(SELL),Sell to Close,-22.0,$43.74,8/17/07,($35.91),($35.91),0.0,
+3,keepbusy_cross(Buy),Buy to Open,18.0,$54.09,2/10/17,,($24.39),18.0,
+4,keepbusy_cross(SELL),Sell to Close,-18.0,$55.04,5/3/17,$17.11,($18.80),0.0,

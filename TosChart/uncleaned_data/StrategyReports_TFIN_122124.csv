@@ -1,0 +1,3 @@
+Symbol: TFIN Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,72.0,$13.82,7/31/15,,$17.28,72.0,
+2,keepbusy_cross(SELL),Sell to Close,-72.0,$16.35,1/5/16,$182.22,$182.22,0.0,

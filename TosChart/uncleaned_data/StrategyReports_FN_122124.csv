@@ -1,0 +1,7 @@
+Symbol: FN Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,50.0,$19.70,8/28/15,,$13.50,50.0,
+2,keepbusy_cross(SELL),Sell to Close,-50.0,$18.86,9/11/15,($41.96),($41.96),0.0,
+3,keepbusy_cross(Buy),Buy to Open,18.0,$53.83,9/9/19,,($28.46),18.0,
+4,keepbusy_cross(SELL),Sell to Close,-18.0,$50.83,10/3/19,($54.00),($95.96),0.0,
+5,keepbusy_cross(Buy),Buy to Open,15.0,$62.55,5/22/20,,($94.16),15.0,
+6,keepbusy_cross(SELL),Sell to Close,-15.0,$60.25,6/15/20,($34.48),($130.44),0.0,

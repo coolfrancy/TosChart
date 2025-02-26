@@ -1,0 +1,7 @@
+Symbol: CHDN Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,159.0,$6.28,9/19/03,,$45.32,159.0,
+2,keepbusy_cross(SELL),Sell to Close,-159.0,$6.21,9/29/03,($10.74),($10.74),0.0,
+3,keepbusy_cross(Buy),Buy to Open,158.0,$6.32,10/29/04,,($9.16),158.0,
+4,keepbusy_cross(SELL),Sell to Close,-158.0,$6.22,11/2/04,($16.85),($27.60),0.0,
+5,keepbusy_cross(Buy),Buy to Open,163.0,$6.11,3/5/10,,$12.61,163.0,
+6,keepbusy_cross(SELL),Sell to Close,-163.0,$6.20,5/7/10,$14.44,($13.16),0.0,

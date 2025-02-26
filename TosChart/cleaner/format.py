@@ -1,14 +1,14 @@
 import os
 
 # List all the files in the target folder
-files = os.listdir('/workspaces/tosdata/max_5')
-fold = '/workspaces/tosdata/max_5/'
+uncleaned_data_path= '/workspaces/TosChart/TosChart/uncleaned_data'
+files = os.listdir(uncleaned_data_path)
 
 # Loop through each file
 for strat in files:
     try:
         # Read the content of the file
-        with open(fold + strat, 'r', encoding='windows-1252', errors='replace') as rfile:
+        with open(uncleaned_data_path + '/' + strat, 'r', encoding='windows-1252', errors='replace') as rfile:
             old = rfile.readlines()[1:]  # Skip the first line
 
             old.pop(1)  # Remove the second line
@@ -17,7 +17,7 @@ for strat in files:
             old[0] += sid  # Append the SID to the first line
 
         # Now write back to the file
-        with open(fold + strat, 'w', encoding='windows-1252') as wfile:
+        with open(uncleaned_data_path + '/' + strat, 'w', encoding='windows-1252') as wfile:
             for line in old:
                 if line != '\n':  # Avoid writing empty newlines
                     new_line = line.replace(';', ',')  # Replace semicolons with commas

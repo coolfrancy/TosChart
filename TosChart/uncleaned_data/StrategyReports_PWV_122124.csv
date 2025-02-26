@@ -1,0 +1,5 @@
+Symbol: PWV Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,57.0,$17.39,4/21/06,,($0.57),57.0,
+2,keepbusy_cross(SELL),Sell to Close,-57.0,$16.91,5/18/06,($27.42),($27.42),0.0,
+3,keepbusy_cross(Buy),Buy to Open,16.0,$60.10,11/8/24,,($22.46),16.0,
+4,keepbusy_cross(SELL),Sell to Close,-16.0,$58.48,12/17/24,($25.88),($53.31),0.0,

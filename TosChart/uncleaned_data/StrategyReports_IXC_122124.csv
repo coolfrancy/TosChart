@@ -1,0 +1,5 @@
+Symbol: IXC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,24.0,$40.82,9/9/13,,$8.40,24.0,
+2,keepbusy_cross(SELL),Sell to Close,-24.0,$40.31,10/10/13,($12.26),($12.26),0.0,
+3,keepbusy_cross(Buy),Buy to Open,23.0,$42.03,11/8/24,,($15.94),23.0,
+4,keepbusy_cross(SELL),Sell to Close,-23.0,$41.21,11/14/24,($18.88),($31.14),0.0,

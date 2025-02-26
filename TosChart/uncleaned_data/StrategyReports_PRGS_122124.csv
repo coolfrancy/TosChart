@@ -1,0 +1,8 @@
+Symbol: PRGS Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,255.0,$3.92,8/8/97,,$21.25,255.0,
+2,keepbusy_cross(SELL),Sell to Close,-255.0,$4.47,12/4/97,$140.01,$140.01,0.0,
+3,keepbusy_cross(Buy),Buy to Open,49.0,$20.07,11/26/12,,$136.58,49.0,
+4,keepbusy_cross(SELL),Sell to Close,-49.0,$19.67,11/29/12,($19.60),$120.41,0.0,
+5,keepbusy_cross(Buy),Buy to Open,16.0,$60.60,8/25/23,,$132.09,16.0,
+6,keepbusy_cross(SELL),Sell to Close,-16.0,$58.15,9/8/23,($39.16),$81.25,0.0,
+7,keepbusy_cross(Buy),Buy to Open,18.0,$54.24,6/28/24,,$81.61,18.0,

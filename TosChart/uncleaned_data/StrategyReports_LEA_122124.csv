@@ -1,0 +1,5 @@
+Symbol: LEA Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,51.0,$19.28,3/19/99,,$22.31,51.0,
+2,keepbusy_cross(SELL),Sell to Close,-51.0,$23.44,8/3/99,$212.29,$212.29,0.0,
+3,keepbusy_cross(Buy),Buy to Open,41.0,$23.92,9/9/02,,$221.72,41.0,
+4,keepbusy_cross(SELL),Sell to Close,-41.0,$22.93,9/18/02,($40.45),$171.84,0.0,

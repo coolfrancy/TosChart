@@ -1,0 +1,8 @@
+Symbol: BR Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,52.0,$19.00,5/24/96,,$6.50,52.0,
+2,keepbusy_cross(SELL),Sell to Close,-52.0,$24.45,1/27/97,$283.35,$283.35,0.0,
+3,keepbusy_cross(Buy),Buy to Open,14.0,$70.80,5/12/17,,$287.13,14.0,
+4,keepbusy_cross(SELL),Sell to Close,-14.0,$72.66,8/11/17,$26.03,$309.38,0.0,
+5,keepbusy_cross(Buy),Buy to Open,4.0,$208.07,7/26/24,,$327.62,4.0,
+6,keepbusy_cross(SELL),Sell to Close,-4.0,$209.74,11/5/24,$6.69,$316.07,0.0,
+7,keepbusy_cross(Buy),Buy to Open,4.0,$221.18,11/8/24,,$332.19,4.0,

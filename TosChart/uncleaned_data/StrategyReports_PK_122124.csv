@@ -1,0 +1,7 @@
+Symbol: PK Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,37.0,$26.84,6/5/17,,($1.85),37.0,
+2,keepbusy_cross(SELL),Sell to Close,-37.0,$26.00,7/21/17,($30.98),($30.98),0.0,
+3,keepbusy_cross(Buy),Buy to Open,50.0,$19.61,11/5/21,,$44.52,50.0,
+4,keepbusy_cross(SELL),Sell to Close,-50.0,$19.08,11/18/21,($26.53),($57.51),0.0,
+5,keepbusy_cross(Buy),Buy to Open,52.0,$19.16,4/18/22,,($63.23),52.0,
+6,keepbusy_cross(SELL),Sell to Close,-52.0,$18.79,5/6/22,($19.21),($76.72),0.0,

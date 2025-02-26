@@ -1,0 +1,7 @@
+Symbol: SHO Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,73.0,$13.56,3/14/14,,$19.71,73.0,
+2,keepbusy_cross(SELL),Sell to Close,-73.0,$13.26,4/14/14,($21.90),($21.90),0.0,
+3,keepbusy_cross(Buy),Buy to Open,72.0,$13.81,4/21/14,,($14.70),72.0,
+4,keepbusy_cross(SELL),Sell to Close,-72.0,$14.35,8/1/14,$38.92,$17.02,0.0,
+5,keepbusy_cross(Buy),Buy to Open,74.0,$13.47,11/11/16,,$29.60,74.0,
+6,keepbusy_cross(SELL),Sell to Close,-74.0,$14.44,3/6/17,$71.65,$88.68,0.0,

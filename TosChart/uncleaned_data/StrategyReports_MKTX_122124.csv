@@ -1,0 +1,5 @@
+Symbol: MKTX Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,5.0,$198.90,2/16/18,,$12.50,5.0,
+2,keepbusy_cross(SELL),Sell to Close,-5.0,$202.75,4/13/18,$19.25,$19.25,0.0,
+3,keepbusy_cross(Buy),Buy to Open,4.0,$212.45,6/8/18,,$29.01,4.0,
+4,keepbusy_cross(SELL),Sell to Close,-4.0,$207.83,6/26/18,($18.48),$0.78,0.0,

@@ -1,0 +1,7 @@
+Symbol: BEN Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
+1,keepbusy_cross(Buy),Buy to Open,150.0,$6.65,6/28/96,,$18.75,150.0,
+2,keepbusy_cross(SELL),Sell to Close,-150.0,$6.40,7/12/96,($38.15),($38.15),0.0,
+3,keepbusy_cross(Buy),Buy to Open,94.0,$10.63,7/10/00,,($34.23),94.0,
+4,keepbusy_cross(SELL),Sell to Close,-94.0,$12.57,11/14/00,$183.12,$144.97,0.0,
+5,keepbusy_cross(Buy),Buy to Open,29.0,$34.10,1/7/22,,$175.71,29.0,
+6,keepbusy_cross(SELL),Sell to Close,-29.0,$32.75,1/21/22,($39.04),$105.93,0.0,

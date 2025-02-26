@@ -1,0 +1,7 @@
+get some more uncleaned trading datasets to test
+update code to match the new file format
+add a website for tos users to add files into and see information visually
+
+
+fix wash in the cleaner to make sure to only distroy lat 3 if conditions are right.
+add both cleaning techniques into 1 single move
