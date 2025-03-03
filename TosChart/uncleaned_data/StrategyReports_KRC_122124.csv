@@ -1,7 +1,0 @@
-Symbol: KRC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,12.0,$80.51,1/12/07,,$5.64,12.0,
-2,keepbusy_cross(SELL),Sell to Close,-12.0,$79.88,3/6/07,($7.58),($7.58),0.0,
-3,keepbusy_cross(Buy),Buy to Open,12.0,$78.70,7/26/19,,$8.50,12.0,
-4,keepbusy_cross(SELL),Sell to Close,-12.0,$76.32,8/6/19,($28.53),($36.11),0.0,
-5,keepbusy_cross(Buy),Buy to Open,17.0,$57.57,11/13/20,,$15.06,17.0,
-6,keepbusy_cross(SELL),Sell to Close,-17.0,$56.40,12/21/20,($19.85),($55.96),0.0,

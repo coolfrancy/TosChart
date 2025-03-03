@@ -1,3 +1,0 @@
-Symbol: DBC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,64.0,$15.49,12/2/16,,$7.04,64.0,
-2,keepbusy_cross(SELL),Sell to Close,-64.0,$15.47,3/9/17,($1.47),($1.47),0.0,

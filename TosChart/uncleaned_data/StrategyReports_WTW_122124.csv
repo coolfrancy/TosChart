@@ -1,7 +1,0 @@
-Symbol: WTW Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,7.0,$129.18,9/23/16,,($7.63),7.0,
-2,keepbusy_cross(SELL),Sell to Close,-7.0,$125.23,10/31/16,($27.63),($27.63),0.0,
-3,keepbusy_cross(Buy),Buy to Open,4.0,$210.08,10/2/20,,($29.51),4.0,
-4,keepbusy_cross(SELL),Sell to Close,-4.0,$203.79,10/27/20,($25.15),($52.78),0.0,
-5,keepbusy_cross(Buy),Buy to Open,4.0,$211.81,12/28/20,,($68.26),4.0,
-6,keepbusy_cross(SELL),Sell to Close,-4.0,$205.23,1/5/21,($26.34),($79.12),0.0,

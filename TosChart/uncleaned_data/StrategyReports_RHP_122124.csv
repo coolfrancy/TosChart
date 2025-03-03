@@ -1,7 +1,0 @@
-Symbol: RHP Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,22.0,$44.47,4/11/14,,$5.28,22.0,
-2,keepbusy_cross(SELL),Sell to Close,-22.0,$46.36,8/6/14,$41.56,$41.56,0.0,
-3,keepbusy_cross(Buy),Buy to Open,18.0,$53.37,12/28/15,,$31.30,18.0,
-4,keepbusy_cross(SELL),Sell to Close,-18.0,$52.50,12/29/15,($15.66),$25.90,0.0,
-5,keepbusy_cross(Buy),Buy to Open,11.0,$90.65,2/28/22,,($2.04),11.0,
-6,keepbusy_cross(SELL),Sell to Close,-11.0,$87.00,3/1/22,($40.14),($14.25),0.0,

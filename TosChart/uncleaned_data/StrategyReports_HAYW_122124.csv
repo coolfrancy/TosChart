@@ -1,3 +1,0 @@
-Symbol: HAYW Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,76.0,$13.10,2/9/24,,($0.76),76.0,
-2,keepbusy_cross(SELL),Sell to Close,-76.0,$12.48,2/23/24,($47.12),($47.12),0.0,

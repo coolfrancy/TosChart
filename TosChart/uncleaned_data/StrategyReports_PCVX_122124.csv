@@ -1,3 +1,0 @@
-Symbol: PCVX Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,42.0,$23.70,7/29/22,,($26.04),42.0,
-2,keepbusy_cross(SELL),Sell to Close,-42.0,$23.48,8/1/22,($9.24),($9.24),0.0,

@@ -1,5 +1,0 @@
-Symbol: BF/B Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,28.0,$35.42,4/28/17,,$12.10,28.0,
-2,keepbusy_cross(SELL),Sell to Close,-28.0,$36.71,6/30/17,$36.06,$36.06,0.0,
-3,keepbusy_cross(Buy),Buy to Open,14.0,$70.26,11/5/21,,$55.94,14.0,
-4,keepbusy_cross(SELL),Sell to Close,-14.0,$69.52,12/1/21,($10.31),$25.75,0.0,

@@ -1,5 +1,0 @@
-Symbol: CALX Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,118.0,$8.45,7/31/15,,($2.36),118.0,
-2,keepbusy_cross(SELL),Sell to Close,-118.0,$8.04,8/7/15,($48.80),($48.80),0.0,
-3,keepbusy_cross(Buy),Buy to Open,126.0,$7.91,12/28/15,,($61.40),126.0,
-4,keepbusy_cross(SELL),Sell to Close,-126.0,$7.71,1/5/16,($25.20),($74.00),0.0,

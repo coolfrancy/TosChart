@@ -1,5 +1,0 @@
-Symbol: CHD Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,36.0,$27.67,1/7/13,,($0.54),36.0,
-2,keepbusy_cross(SELL),Sell to Close,-36.0,$30.64,6/3/13,$107.09,$107.09,0.0,
-3,keepbusy_cross(Buy),Buy to Open,10.0,$94.56,1/2/24,,$107.19,10.0,
-4,keepbusy_cross(SELL),Sell to Close,-10.0,$104.13,6/27/24,$95.72,$202.81,0.0,

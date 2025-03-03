@@ -1,3 +1,0 @@
-Symbol: BPMC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,12.0,$78.00,12/20/19,,$17.76,12.0,
-2,keepbusy_cross(SELL),Sell to Close,-12.0,$76.01,1/14/20,($23.94),($23.94),0.0,

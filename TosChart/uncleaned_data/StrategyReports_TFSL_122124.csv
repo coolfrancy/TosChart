@@ -1,3 +1,0 @@
-Symbol: TFSL Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,76.0,$13.03,7/12/24,,$6.08,76.0,
-2,keepbusy_cross(SELL),Sell to Close,-76.0,$12.72,8/5/24,($23.56),($23.56),0.0,

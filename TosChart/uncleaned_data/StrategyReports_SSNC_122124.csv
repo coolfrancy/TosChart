@@ -1,3 +1,0 @@
-Symbol: SSNC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,32.0,$30.55,5/27/16,,$7.04,32.0,
-2,keepbusy_cross(SELL),Sell to Close,-32.0,$30.29,6/2/16,($8.23),($8.23),0.0,

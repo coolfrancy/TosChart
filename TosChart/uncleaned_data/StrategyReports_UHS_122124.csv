@@ -1,3 +1,0 @@
-Symbol: UHS Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,542.0,$1.84,5/28/93,,($8.47),542.0,
-2,keepbusy_cross(SELL),Sell to Close,-542.0,$1.85,8/16/93,$2.46,$2.46,0.0,

@@ -1,3 +1,0 @@
-Symbol: FIS Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,10.0,$99.82,2/26/18,,$1.00,10.0,
-2,keepbusy_cross(SELL),Sell to Close,-10.0,$95.58,3/2/18,($42.41),($42.41),0.0,

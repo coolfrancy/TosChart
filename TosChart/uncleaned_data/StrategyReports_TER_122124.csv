@@ -1,7 +1,0 @@
-Symbol: TER Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,150.0,$6.63,7/1/94,,($18.75),150.0,
-2,keepbusy_cross(SELL),Sell to Close,-150.0,$6.13,7/20/94,($75.00),($75.00),0.0,
-3,keepbusy_cross(Buy),Buy to Open,63.0,$15.70,1/9/06,,($75.63),63.0,
-4,keepbusy_cross(SELL),Sell to Close,-63.0,$15.49,3/9/06,($13.20),($88.20),0.0,
-5,keepbusy_cross(Buy),Buy to Open,57.0,$17.40,12/30/13,,($79.65),57.0,
-6,keepbusy_cross(SELL),Sell to Close,-57.0,$18.66,4/15/14,$71.88,($16.32),0.0,

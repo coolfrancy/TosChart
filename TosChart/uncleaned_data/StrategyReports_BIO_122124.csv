@@ -1,3 +1,0 @@
-Symbol: BIO Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,81.0,$12.30,10/6/00,,$42.52,81.0,
-2,keepbusy_cross(SELL),Sell to Close,-81.0,$16.86,3/23/01,$369.65,$369.65,0.0,

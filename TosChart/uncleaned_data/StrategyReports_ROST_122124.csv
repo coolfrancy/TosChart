@@ -1,7 +1,0 @@
-Symbol: ROST Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,49.0,$20.19,10/7/11,,$15.07,49.0,
-2,keepbusy_cross(SELL),Sell to Close,-49.0,$32.86,9/19/12,$620.96,$620.96,0.0,
-3,keepbusy_cross(Buy),Buy to Open,29.0,$34.26,8/23/13,,$640.39,29.0,
-4,keepbusy_cross(SELL),Sell to Close,-29.0,$35.87,12/5/13,$46.55,$667.50,0.0,
-5,keepbusy_cross(Buy),Buy to Open,10.0,$91.91,3/29/19,,$679.40,10.0,
-6,keepbusy_cross(SELL),Sell to Close,-10.0,$93.65,5/24/19,$17.40,$684.91,0.0,

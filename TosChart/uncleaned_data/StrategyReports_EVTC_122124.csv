@@ -1,3 +1,0 @@
-Symbol: EVTC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,59.0,$16.75,6/5/17,,($2.95),59.0,
-2,keepbusy_cross(SELL),Sell to Close,-59.0,$16.59,6/6/17,($9.26),($9.26),0.0,

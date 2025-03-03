@@ -1,5 +1,0 @@
-Symbol: LH Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,20.0,$49.75,5/20/05,,$5.20,20.0,
-2,keepbusy_cross(SELL),Sell to Close,-20.0,$48.40,6/1/05,($27.09),($27.09),0.0,
-3,keepbusy_cross(Buy),Buy to Open,5.0,$174.91,1/10/20,,($13.74),5.0,
-4,keepbusy_cross(SELL),Sell to Close,-5.0,$173.24,3/2/20,($8.35),($35.44),0.0,

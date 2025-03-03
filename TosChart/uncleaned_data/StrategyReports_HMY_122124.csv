@@ -1,3 +1,0 @@
-Symbol: HMY Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,213.0,$4.69,3/19/99,,$46.59,213.0,
-2,keepbusy_cross(SELL),Sell to Close,-213.0,$4.66,3/29/99,($5.39),($5.39),0.0,

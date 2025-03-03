@@ -1,7 +1,0 @@
-Symbol: EWBC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,23.0,$42.21,11/20/15,,$7.59,23.0,
-2,keepbusy_cross(SELL),Sell to Close,-23.0,$41.21,12/14/15,($22.99),($22.99),0.0,
-3,keepbusy_cross(Buy),Buy to Open,28.0,$35.64,7/15/16,,($15.71),28.0,
-4,keepbusy_cross(SELL),Sell to Close,-28.0,$34.91,7/20/16,($20.44),($43.43),0.0,
-5,keepbusy_cross(Buy),Buy to Open,26.0,$37.47,10/9/20,,($50.45),26.0,
-6,keepbusy_cross(SELL),Sell to Close,-26.0,$35.59,10/16/20,($48.88),($92.31),0.0,

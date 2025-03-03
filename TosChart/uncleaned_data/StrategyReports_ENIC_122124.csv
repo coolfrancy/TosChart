@@ -1,3 +1,0 @@
-Symbol: ENIC Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,323.0,$3.09,5/10/24,,$0.00,323.0,
-2,keepbusy_cross(SELL),Sell to Close,-323.0,$2.96,5/23/24,($41.99),($41.99),0.0,

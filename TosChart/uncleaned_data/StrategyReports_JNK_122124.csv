@@ -1,3 +1,0 @@
-Symbol: JNK Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,8.0,$119.01,4/27/12,,($1.44),8.0,
-2,keepbusy_cross(SELL),Sell to Close,-8.0,$117.91,5/15/12,($8.76),($8.76),0.0,

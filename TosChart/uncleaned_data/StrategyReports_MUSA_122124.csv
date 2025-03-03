@@ -1,7 +1,0 @@
-Symbol: MUSA Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,12.0,$80.38,3/15/19,,$0.00,12.0,
-2,keepbusy_cross(SELL),Sell to Close,-12.0,$80.89,5/28/19,$6.14,$6.14,0.0,
-3,keepbusy_cross(Buy),Buy to Open,11.0,$84.58,6/7/19,,($2.99),11.0,
-4,keepbusy_cross(SELL),Sell to Close,-11.0,$82.00,8/2/19,($28.38),($22.24),0.0,
-5,keepbusy_cross(Buy),Buy to Open,9.0,$109.81,5/8/20,,$16.37,9.0,
-6,keepbusy_cross(SELL),Sell to Close,-9.0,$105.03,5/15/20,($43.02),($65.26),0.0,

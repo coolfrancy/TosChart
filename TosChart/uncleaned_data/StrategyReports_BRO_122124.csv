@@ -1,7 +1,0 @@
-Symbol: BRO Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,994.0,$1.01,8/16/96,,$15.53,994.0,
-2,keepbusy_cross(SELL),Sell to Close,-994.0,$1.00,8/20/96,($4.66),($4.66),0.0,
-3,keepbusy_cross(Buy),Buy to Open,64.0,$15.48,4/4/14,,($18.42),64.0,
-4,keepbusy_cross(SELL),Sell to Close,-64.0,$15.42,4/7/14,($3.88),($8.54),0.0,
-5,keepbusy_cross(Buy),Buy to Open,61.0,$16.35,12/5/14,,($5.49),61.0,
-6,keepbusy_cross(SELL),Sell to Close,-61.0,$16.00,12/15/14,($21.06),($29.60),0.0,

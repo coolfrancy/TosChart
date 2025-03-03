@@ -1,7 +1,0 @@
-Symbol: CMI Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,85.0,$11.75,5/12/95,,$34.53,85.0,
-2,keepbusy_cross(SELL),Sell to Close,-85.0,$11.24,5/31/95,($43.51),($43.51),0.0,
-3,keepbusy_cross(Buy),Buy to Open,44.0,$22.40,12/23/05,,($27.89),44.0,
-4,keepbusy_cross(SELL),Sell to Close,-44.0,$26.38,6/9/06,$175.01,$131.50,0.0,
-5,keepbusy_cross(Buy),Buy to Open,3.0,$252.87,3/3/23,,$147.07,3.0,
-6,keepbusy_cross(SELL),Sell to Close,-3.0,$244.60,3/13/23,($24.80),$106.70,0.0,

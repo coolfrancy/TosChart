@@ -1,5 +1,0 @@
-Symbol: LAMR Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,25.0,$39.78,4/2/04,,$40.50,25.0,
-2,keepbusy_cross(SELL),Sell to Close,-25.0,$39.71,5/18/04,($1.68),($1.68),0.0,
-3,keepbusy_cross(Buy),Buy to Open,33.0,$30.09,7/20/12,,$4.59,33.0,
-4,keepbusy_cross(SELL),Sell to Close,-33.0,$46.02,6/4/13,$525.85,$524.17,0.0,

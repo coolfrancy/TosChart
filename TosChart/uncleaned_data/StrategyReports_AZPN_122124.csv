@@ -1,7 +1,0 @@
-Symbol: AZPN Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,45.0,$21.87,6/29/12,,$57.60,45.0,
-2,keepbusy_cross(SELL),Sell to Close,-45.0,$29.24,4/18/13,$331.86,$331.86,0.0,
-3,keepbusy_cross(Buy),Buy to Open,6.0,$150.71,1/14/22,,$363.12,6.0,
-4,keepbusy_cross(SELL),Sell to Close,-6.0,$145.67,1/24/22,($30.23),$301.63,0.0,
-5,keepbusy_cross(Buy),Buy to Open,4.0,$217.78,3/31/23,,$345.99,4.0,
-6,keepbusy_cross(SELL),Sell to Close,-4.0,$173.94,4/28/23,($175.36),$126.27,0.0,

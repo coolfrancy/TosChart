@@ -1,5 +1,0 @@
-Symbol: DEM Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,25.0,$39.35,7/14/23,,($0.75),25.0,
-2,keepbusy_cross(SELL),Sell to Close,-25.0,$38.58,8/14/23,($19.25),($19.25),0.0,
-3,keepbusy_cross(Buy),Buy to Open,22.0,$44.28,7/8/24,,($15.07),22.0,
-4,keepbusy_cross(SELL),Sell to Close,-22.0,$42.92,7/24/24,($29.97),($49.22),0.0,

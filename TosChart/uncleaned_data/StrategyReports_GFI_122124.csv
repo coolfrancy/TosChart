@@ -1,7 +1,0 @@
-Symbol: GFI Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,59.0,$16.69,8/12/11,,($17.11),59.0,
-2,keepbusy_cross(SELL),Sell to Close,-59.0,$15.93,8/25/11,($45.11),($45.11),0.0,
-3,keepbusy_cross(Buy),Buy to Open,60.0,$16.56,1/27/12,,($23.51),60.0,
-4,keepbusy_cross(SELL),Sell to Close,-60.0,$16.15,2/6/12,($24.56),($69.68),0.0,
-5,keepbusy_cross(Buy),Buy to Open,235.0,$4.24,6/24/16,,$24.32,235.0,
-6,keepbusy_cross(SELL),Sell to Close,-235.0,$4.96,9/13/16,$169.20,$99.52,0.0,

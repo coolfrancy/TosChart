@@ -1,3 +1,0 @@
-Symbol: MAT Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,61.0,$16.38,2/3/06,,($17.08),61.0,
-2,keepbusy_cross(SELL),Sell to Close,-61.0,$15.94,2/6/06,($27.07),($27.07),0.0,

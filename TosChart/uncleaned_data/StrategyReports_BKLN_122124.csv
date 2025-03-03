@@ -1,3 +1,0 @@
-Symbol: BKLN Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,47.0,$21.12,2/16/24,,$0.94,47.0,
-2,keepbusy_cross(SELL),Sell to Close,-47.0,$21.02,2/21/24,($4.82),($4.82),0.0,

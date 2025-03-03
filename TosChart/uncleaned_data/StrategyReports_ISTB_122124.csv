@@ -1,5 +1,0 @@
-Symbol: ISTB Id,Strategy,Side,Amount,Price,Date/Time,Trade P/L,P/L,Position,
-1,keepbusy_cross(Buy),Buy to Open,19.0,$50.30,3/20/15,,$1.35,19.0,
-2,keepbusy_cross(SELL),Sell to Close,-19.0,$50.25,5/4/15,($0.83),($0.83),0.0,
-3,keepbusy_cross(Buy),Buy to Open,19.0,$50.24,10/16/15,,($0.92),19.0,
-4,keepbusy_cross(SELL),Sell to Close,-19.0,$50.13,10/27/15,($2.03),($2.86),0.0,
