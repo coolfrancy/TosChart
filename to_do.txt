@@ -1,3 +1,0 @@
-format to a website for tos users to add files into and see information visually
-
-first get the chart and try to display it to the user
