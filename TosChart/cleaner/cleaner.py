@@ -17,18 +17,17 @@ def wash():
                 for i,line in enumerate(reversed(old)):
                     if 'Max trade' in line:
                         old=old[:-i]
-                        break
-                
-                
+
+                for i,line in enumerate(old):
+                    if ',' in line:
+                        old[i]=line.replace(',', '')
+
                 old.pop(1)  # Remove the second line
                 old.pop()
                 sid = old.pop(3)  # Pop the 4th line (index 3)
                 old[0] = old[0].replace('\n', ' ')  # Replace newline in the first line
                 old[0] += sid  # Append the SID to the first line
 
-            #makes sure the trailing line skips are taken out before calculating len
-            while old[-1]=='\n':
-                old.pop()
 
             #make sure the file has enough data
             if len(old)>=3:
